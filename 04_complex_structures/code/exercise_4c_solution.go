@@ -9,9 +9,10 @@ package main
 // 	for _, number := range numbers {
 // 		total += number
 // 	}
+// 	fmt.Println("total", total)
 // 	return total / float64(len(numbers))
 // }
 
 // func main() {
-// 	fmt.Println(average(10, 5, 7))
+// 	fmt.Println("average", average(10, 5, 7))
 // }
